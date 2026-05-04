@@ -180,5 +180,57 @@
       "material": "Ceramic",
       "inStock": true
     }
+  ],
+
+  "featured": [
+    {
+      "id": "tile_003",
+      "title": "Glossy Black Tile",
+      "description": "High-gloss black tile for modern interiors",
+      "image": "/images/tiles/tile_003.jpg",
+      "category": "ceramic",
+      "price": 49.99,
+      "currency": "USD",
+      "dimensions": "60x60 cm",
+      "material": "Ceramic",
+      "inStock": false
+    },
+    {
+      "id": "tile_006",
+      "title": "Stone Grey Tile",
+      "description": "Natural stone-inspired grey tile",
+      "image": "/images/tiles/tile_006.jpg",
+      "category": "stone",
+      "price": 64.99,
+      "currency": "USD",
+      "dimensions": "60x60 cm",
+      "material": "Stone",
+      "inStock": true
+    },
+    {
+      "id": "tile_009",
+      "title": "Mosaic Glass Tile",
+      "description": "Colorful mosaic glass tile",
+      "image": "/images/tiles/tile_009.jpg",
+      "category": "glass",
+      "price": 70.0,
+      "currency": "USD",
+      "dimensions": "30x30 cm",
+      "material": "Glass",
+      "inStock": true
+    },
+
+    {
+      "id": "tile_013",
+      "title": "Patterned Vintage Tile",
+      "description": "Vintage patterned tile design",
+      "image": "/images/tiles/tile_013.jpg",
+      "category": "decorative",
+      "price": 55.5,
+      "currency": "USD",
+      "dimensions": "30x30 cm",
+      "material": "Ceramic",
+      "inStock": false
+    }
   ]
 }
